@@ -11,4 +11,4 @@ Starter (boilerplate) for all future projects.
 * Common boilerplate for web projects
 * I am a human being who makes mistakes
 
-![Web 2 Starter Image](/workspaces/web-2-starter/web2.webp)
+![Web 2 Starter Image](web2.webp)
