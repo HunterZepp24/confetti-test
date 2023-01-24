@@ -1,5 +1,7 @@
 # Web Design 2 Starter
 
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/HunterZepp24/web-2-starter"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
+
 > Computers are dumb. Humans make them smart.
 
 Starter (boilerplate) for all future projects.
